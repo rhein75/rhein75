@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhein75
 - 👀 I’m interested in software development, music (Keys, Bass, Guitars, Drums), photography & motorcycles
-- 🌱 I’m currently getting more into front-end stuff
+- 🌱 I’m currently working as a Dynamics NAV (C/AL) developer
 <!--
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
